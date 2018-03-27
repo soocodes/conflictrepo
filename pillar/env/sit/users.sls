@@ -1,6 +1,6 @@
 users:
   kailashsit:
-    fullname: Kailash-SIT
+    fullname: Kailash-SIT-Updated-On-Gitfs
     uid: 1133
     shell: /bin/zsh
     password: 121212123
