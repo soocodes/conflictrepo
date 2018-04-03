@@ -3,6 +3,7 @@ base:
     - requirements
     - git
     - java
+    - users
 
 dev:
   'minion1.local':
